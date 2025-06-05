@@ -1,6 +1,6 @@
 # Momentum Indicators Backtesting Project
 
-This project explores the use of momentum indicators—**RSI**, **MACD**, and the **Stochastic Oscillator**—to generate trading signals and evaluate their effectiveness through backtesting. It is a hands-on application of concepts in quantitative finance and algorithmic trading.
+This project explores the use of momentum indicators (**RSI**, **MACD**, and the **Stochastic Oscillator**) to generate trading signals and evaluate their effectiveness through backtesting. It is a hands-on application of concepts in quantitative finance and algorithmic trading.
 
 ## Overview
 
